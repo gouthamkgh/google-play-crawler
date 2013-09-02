@@ -1,0 +1,215 @@
+# Sample output
+
+Developer_id - sbscontentshub, App - Android.Dev.SBSCnbc, rating - 3.2, rating_count - 285, installs - 100000, category - News &amp; Magazines, developer_email - cmndrsbs@gmail.com
+Developer_id - GoodTeam, App - Blasting.goodteam.cn, rating - 4.0, rating_count - 855, installs - 500000, category - Casual, developer_email - youjumedia@gmail.com
+Developer_id - UvaSoft, App - Cam.SILENT, rating - 4.0, rating_count - 8681, installs - 10000000, category - Media &amp; Video, developer_email - Uva_Camera@hotmail.co.jp
+Developer_id - UvaSoft, App - Cam_P.SILENT, rating - 4.1, rating_count - 563, installs - 50000, category - Media &amp; Video, developer_email - Uva_Camera@hotmail.co.jp
+Developer_id - SKTelecom, App - Com.sktelecom.minit, rating - 3.9, rating_count - 28968, installs - 50000000, category - Lifestyle, developer_email - sanguwn@sk.com
+Developer_id - gps-find.me, App - Dollar.packge, rating - 4.1, rating_count - 207, installs - 100000, category - Personalization, developer_email - stas@gps-find.me
+Developer_id - gps-find.me, App - GFM.flower11.packge, rating - 5.0, rating_count - 2, installs - 50, category - Lifestyle, developer_email - stas@gps-find.me
+Developer_id - gps-find.me, App - GFM.flower12.packge, rating - 4.7, rating_count - 21, installs - 5000, category - Entertainment, developer_email - stas@gps-find.me
+Developer_id - gps-find.me, App - GFM.flower2.packge, rating - 4.5, rating_count - 8, installs - 5000, category - Entertainment, developer_email - stas@gps-find.me
+Developer_id - gps-find.me, App - GFM.flower21.packge, rating - 4.6, rating_count - 9, installs - 5000, category - Entertainment, developer_email - stas@gps-find.me
+Developer_id - gps-find.me, App - GFM.flower22.packge, rating - 3.6, rating_count - 161, installs - 100000, category - Entertainment, developer_email - stas@gps-find.me
+Developer_id - gps-find.me, App - GFM.flower23.packge, rating - 5.0, rating_count - 1, installs - 50, category - Entertainment, developer_email - stas@gps-find.me
+Developer_id - gps-find.me, App - GFM.flower25.packge, rating - 5.0, rating_count - 2, installs - 50, category - Entertainment, developer_email - stas@gps-find.me
+Developer_id - gps-find.me, App - GFM.flower27.packge, rating - 3.9, rating_count - 98, installs - 100000, category - Personalization, developer_email - stas@gps-find.me
+Developer_id - gps-find.me, App - GFM.flower31.packge, rating - 4.3, rating_count - 7, installs - 5000, category - Entertainment, developer_email - stas@gps-find.me
+Developer_id - gps-find.me, App - GFM.flower32.packge, rating - 4.0, rating_count - 32, installs - 10000, category - Entertainment, developer_email - stas@gps-find.me
+Developer_id - gps-find.me, App - GFM.flower36.packge, rating - 5.0, rating_count - 1, installs - 50, category - Entertainment, developer_email - stas@gps-find.me
+Developer_id - gps-find.me, App - GFM.flower4.packge, rating - 4.0, rating_count - 8, installs - 5000, category - Entertainment, developer_email - stas@gps-find.me
+Developer_id - gps-find.me, App - GFM.flower5.packge, rating - 4.0, rating_count - 22, installs - 10000, category - Entertainment, developer_email - stas@gps-find.me
+Developer_id - gps-find.me, App - GFM.foged.full.packge, rating - 5.0, rating_count - 1, installs - 100, category - Entertainment, developer_email - stas@gps-find.me
+Developer_id - gps-find.me, App - GFM.foged.packge, rating - 3.8, rating_count - 1344, installs - 500000, category - Entertainment, developer_email - stas@gps-find.me
+Developer_id - gps-find.me, App - GFM.gitar.packge, rating - 4.6, rating_count - 87, installs - 50000, category - Entertainment, developer_email - stas@gps-find.me
+Developer_id - gps-find.me, App - GFM.timelaps2.packge, rating - 4.6, rating_count - 14, installs - 5000, category - Entertainment, developer_email - stas@gps-find.me
+Developer_id - gps-find.me, App - GFM.timelaps3.packge, rating - 4.1, rating_count - 9, installs - 5000, category - Entertainment, developer_email - stas@gps-find.me
+Developer_id - PlayBeanCo.,Ltd., App - Native.Matgo_AM, rating - 4.0, rating_count - 374, installs - 500000, category - Cards &amp; Casino, developer_email - help@playbean.co.kr
+Developer_id - PREIR, App - PR.Asset, rating - 4.4, rating_count - 11, installs - 5000, category - Finance, developer_email - preirr2011@gmail.com
+Developer_id - PlayBeanCo.,Ltd., App - P_Native.Matgo_AM, rating - 4.4, rating_count - 5, installs - 500, category - Cards &amp; Casino, developer_email - help@playbean.co.kr
+Developer_id - PICTOSOFTInc, App - SSGlobal.pack, rating - 4.6, rating_count - 38436, installs - 5000000, category - Arcade &amp; Action, developer_email - help@pictosoft.com
+Developer_id - PICTOSOFTInc, App - SSGree.pack, rating - 4.4, rating_count - 731, installs - 500000, category - Arcade &amp; Action, developer_email - help@pictosoft.com
+Developer_id - WordsMobile, App - Snake.snake, rating - 3.5, rating_count - 689, installs - 500000, category - Arcade &amp; Action, developer_email - contact@words-mobile.com
+Developer_id - SKCommunications, App - Uxpp.UC, rating - 4.0, rating_count - 48656, installs - 50000000, category - Communication, developer_email - mobilehelp01@nate.com
+Developer_id - ActivisionPublishing,Inc., App - activision.mw3lwp, rating - 4.3, rating_count - 2832, installs - 5000000, category - Personalization, developer_email - qa-trg-android@activision.com
+Developer_id - MeetMe.com, App - aiMinesweeper.WhiteSnow, rating - 4.0, rating_count - 565, installs - 100000, category - Brain &amp; Puzzle, developer_email - android-feedback@myyearbook.com
+Developer_id - dim_ok, App - air.A800x480, rating - 3.8, rating_count - 7975, installs - 5000000, category - Brain &amp; Puzzle, developer_email - dim_ok_23@mail.ru
+Developer_id - dim_ok, App - air.Agroprom, rating - 4.1, rating_count - 254, installs - 50000, category - Brain &amp; Puzzle, developer_email - dim_ok_23@mail.ru
+Developer_id - AMC, App - air.BBCODB, rating - 3.2, rating_count - 78, installs - 50000, category - Casual, developer_email - info-amc@amctv.com
+Developer_id - VascoGames, App - air.CarShopEscape, rating - 3.2, rating_count - 186, installs - 100000, category - Brain &amp; Puzzle, developer_email - info@vascogames.com
+Developer_id - dim_ok, App - air.Deti, rating - 4.4, rating_count - 124, installs - 500000, category - Brain &amp; Puzzle, developer_email - dim_ok_23@mail.ru
+Developer_id - DragonGameStudio, App - air.DragonEmpire, rating - 4.4, rating_count - 9054, installs - 1000000, category - Arcade &amp; Action, developer_email - dragongamestudio12@gmail.com
+Developer_id - AcademMedia, App - air.HangarooChristmas, rating - 4.4, rating_count - 225, installs - 500000, category - Brain &amp; Puzzle, developer_email - academ.media@gmail.com
+Developer_id - dim_ok, App - air.HouseofFearEscape, rating - 4.3, rating_count - 1315, installs - 500000, category - Brain &amp; Puzzle, developer_email - dim_ok_23@mail.ru
+Developer_id - dim_ok, App - air.HouseofHorrors, rating - 3.8, rating_count - 1357, installs - 500000, category - Brain &amp; Puzzle, developer_email - dim_ok_23@mail.ru
+Developer_id - dim_ok, App - air.NoName, rating - 4.5, rating_count - 84, installs - 100000, category - Books &amp; Reference, developer_email - dim_ok_23@mail.ru
+Developer_id - dim_ok, App - air.NoName1, rating - 3.8, rating_count - 32, installs - 50000, category - Books &amp; Reference, developer_email - dim_ok_23@mail.ru
+Developer_id - dim_ok, App - air.PaintKidsNew, rating - 3.9, rating_count - 316, installs - 500000, category - Entertainment, developer_email - dim_ok_23@mail.ru
+Developer_id - VascoGames, App - air.StudioEscape, rating - 2.9, rating_count - 164, installs - 100000, category - Brain &amp; Puzzle, developer_email - info@vascogames.com
+Developer_id - dim_ok, App - air.Turaga, rating - 2.8, rating_count - 305, installs - 100000, category - Brain &amp; Puzzle, developer_email - dim_ok_23@mail.ru
+Developer_id - ESPNInc, App - air.WatchESPN, rating - 2.7, rating_count - 19644, installs - 10000000, category - Sports, developer_email - no_response@espn.com
+Developer_id - KAYACInc., App - air.Worddict, rating - 3.4, rating_count - 15, installs - 50000, category - Brain &amp; Puzzle, developer_email - info@worddict.com
+Developer_id - AdobeSystems, App - air.adobe.flex.TourDeMobileFlex, rating - 4.6, rating_count - 309, installs - 50000, category - Libraries &amp; Demo, developer_email - mobileadobe@gmail.com
+Developer_id - AMC, App - air.amc.deadreckoning, rating - 4.0, rating_count - 1925, installs - 1000000, category - Casual, developer_email - info-amc@amctv.com
+Developer_id - AMC, App - air.amc.jobinterview6, rating - 2.5, rating_count - 2, installs - 500, category - Casual, developer_email - amcdroid@gmail.com
+Developer_id - AMC, App - air.amctv.survival, rating - 4.0, rating_count - 636, installs - 500000, category - Casual, developer_email - amcdroid@gmail.com
+Developer_id - dim_ok, App - air.bags, rating - 3.3, rating_count - 214, installs - 500000, category - Arcade &amp; Action, developer_email - dim_ok_23@mail.ru
+Developer_id - BITLABS, App - air.br.com.bitlabs.FLVPlayer, rating - 4.4, rating_count - 52109, installs - 10000000, category - Media &amp; Video, developer_email - joseadenaldo@gmail.com
+Developer_id - BITLABS, App - air.br.com.bitlabs.FLVPlayerAdFree, rating - 3.8, rating_count - 57, installs - 10000, category - Media &amp; Video, developer_email - joseadenaldo@gmail.com
+Developer_id - BITLABS, App - air.br.com.bitlabs.MathFormulaReference, rating - 4.5, rating_count - 199, installs - 100000, category - Education, developer_email - joseadenaldo@gmail.com
+Developer_id - BITLABS, App - air.br.com.bitlabs.SWFPlayer, rating - 4.3, rating_count - 7736, installs - 5000000, category - Media &amp; Video, developer_email - joseadenaldo@gmail.com
+Developer_id - BITLABS, App - air.br.com.bitlabs.SWFPlayerAdFree, rating - 2.4, rating_count - 5, installs - 500, category - Media &amp; Video, developer_email - joseadenaldo@gmail.com
+Developer_id - BITLABS, App - air.br.com.bitlabs.VideoPlayer, rating - 4.2, rating_count - 4198, installs - 1000000, category - Media &amp; Video, developer_email - joseadenaldo@gmail.com
+Developer_id - BITLABS, App - air.br.com.bitlabs.VideoPlayerAdFree, rating - 2.9, rating_count - 8, installs - 5000, category - Media &amp; Video, developer_email - joseadenaldo@gmail.com
+Developer_id - AcademMedia, App - air.com.academmedia.FatPiggyRun, rating - 3.1, rating_count - 723, installs - 500000, category - Arcade &amp; Action, developer_email - academ.media@gmail.com
+Developer_id - AcademMedia, App - air.com.academmedia.MarbleBlastSpaceInvaders, rating - 4.0, rating_count - 73, installs - 50000, category - Arcade &amp; Action, developer_email - academ.media@gmail.com
+Developer_id - AcademMedia, App - air.com.academmedia.SmashZombies, rating - 3.5, rating_count - 15, installs - 10000, category - Arcade &amp; Action, developer_email - academ.media@gmail.com
+Developer_id - AcademMedia, App - air.com.academmedia.TowerBalance, rating - 2.6, rating_count - 275, installs - 500000, category - Brain &amp; Puzzle, developer_email - academ.media@gmail.com
+Developer_id - AdobeSystems, App - air.com.adobe.DCOMobile, rating - 4.6, rating_count - 102, installs - 50000, category - Business, developer_email - //www.adobe.com/adobeconnect&sa=D&usg=AFQjCNHQxepbg9t_kPlzttEsa8bafDwRnw
+Developer_id - AdobeSystems, App - air.com.adobe.ThRead, rating - 3.0, rating_count - 7, installs - 10000, category - News &amp; Magazines, developer_email - support@adobe.com
+Developer_id - AdobeSystems, App - air.com.adobe.adobepresenter, rating - 1.7, rating_count - 14, installs - 5000, category - Business, developer_email - //www.adobe.com/privacy/policy.html+&sa=D&usg=AFQjCNEyrw3D4uyYxmIHQoDmD9l4hZnmlw
+Developer_id - AdobeSystems, App - air.com.adobe.conference.maxcompanion2011, rating - 4.5, rating_count - 82, installs - 50000, category - Books &amp; Reference, developer_email - maxcompanion@adobe.com
+Developer_id - AdobeSystems, App - air.com.adobe.connectpro, rating - 4.4, rating_count - 1211, installs - 500000, category - Business, developer_email - //www.adobe.com/go/privacy&sa=D&usg=AFQjCNELgbLIBNRGpk-0zW8b2kdQlvwEfQ
+Developer_id - AdobeSystems, App - air.com.adobe.contentviewer, rating - 4.1, rating_count - 1326, installs - 500000, category - Tools, developer_email - //www.adobe.com/support/digitalpublishingsuite/&sa=D&usg=AFQjCNEAvZVr0-6G1-BLhP2xx18OX6kjsQ
+Developer_id - AdobeSystems, App - air.com.adobe.pstouch, rating - 3.8, rating_count - 1440, installs - 100000, category - Photography, developer_email - //www.adobe.com/privacy/policy.html&sa=D&usg=AFQjCNEy6MQjpPwy17YxfJ8J6t3sZsVa5A
+Developer_id - AdobeSystems, App - air.com.adobe.pstouchphone, rating - 3.8, rating_count - 1879, installs - 100000, category - Photography, developer_email - //www.adobe.com/go/privacy_policy_touchapps&sa=D&usg=AFQjCNEE2G6T5Tl_OW8Lb2awstpD30jUrw
+Developer_id - AcademMedia, App - air.com.am.AngryCockroaches, rating - 4.5, rating_count - 21, installs - 50000, category - Arcade &amp; Action, developer_email - academ.media@gmail.com
+Developer_id - IAMGameInside, App - air.com.am.HorseGame, rating - 4.2, rating_count - 471, installs - 500000, category - Arcade &amp; Action, developer_email - i.am.game.inside@gmail.com
+Developer_id - IAMGameInside, App - air.com.am.Snake2013, rating - 3.3, rating_count - 219, installs - 500000, category - Arcade &amp; Action, developer_email - i.am.game.inside@gmail.com
+Developer_id - IAMGameInside, App - air.com.am.SnowmanVSSun, rating - 2.7, rating_count - 24, installs - 50000, category - Arcade &amp; Action, developer_email - i.am.game.inside@gmail.com
+Developer_id - AMC, App - air.com.amctv.holidaygame, rating - 4.3, rating_count - 9, installs - 5000, category - Casual, developer_email - info-amc@amctv.com
+Developer_id - AMC, App - air.com.amctv.madmeninterview, rating - 3.3, rating_count - 15, installs - 10000, category - Casual, developer_email - amcdroid@gmail.com
+Developer_id - XiaoXiao, App - air.com.benyhe.AirgunBoyFree, rating - 5.0, rating_count - 3, installs - 5000, category - Brain &amp; Puzzle, developer_email - appsupport@qq.com
+Developer_id - XiaoXiao, App - air.com.benyhe.BlackBeltFree, rating - 4.1, rating_count - 31, installs - 50000, category - Arcade &amp; Action, developer_email - appsupport@qq.com
+Developer_id - XiaoXiao, App - air.com.benyhe.CatchDuckFree, rating - 4.2, rating_count - 19, installs - 5000, category - Arcade &amp; Action, developer_email - appsupport@qq.com
+Developer_id - XiaoXiao, App - air.com.benyhe.CutandSliceFree, rating - 4.1, rating_count - 10, installs - 50000, category - Brain &amp; Puzzle, developer_email - appsupport@qq.com
+Developer_id - XiaoXiao, App - air.com.benyhe.DangerDartsFree, rating - 3.7, rating_count - 115, installs - 50000, category - Casual, developer_email - appsupport@qq.com
+Developer_id - XiaoXiao, App - air.com.benyhe.EscapeLava, rating - 4.2, rating_count - 11, installs - 5000, category - Casual, developer_email - appsupport@qq.com
+Developer_id - XiaoXiao, App - air.com.benyhe.FloodedVillageFree, rating - 5.0, rating_count - 1, installs - 5000, category - Brain &amp; Puzzle, developer_email - appsupport@qq.com
+Developer_id - XiaoXiao, App - air.com.benyhe.HungryCat, rating - 3.7, rating_count - 39, installs - 50000, category - Brain &amp; Puzzle, developer_email - appsupport@qq.com
+Developer_id - XiaoXiao, App - air.com.benyhe.HungryCat2, rating - 4.7, rating_count - 6, installs - 5000, category - Brain &amp; Puzzle, developer_email - appsupport@qq.com
+Developer_id - XiaoXiao, App - air.com.benyhe.JungleMafiaFree, rating - 4.1, rating_count - 14, installs - 10000, category - Arcade &amp; Action, developer_email - appsupport@qq.com
+Developer_id - XiaoXiao, App - air.com.benyhe.KaWaiRun, rating - 3.9, rating_count - 11, installs - 5000, category - Arcade &amp; Action, developer_email - appsupport@qq.com
+Developer_id - XiaoXiao, App - air.com.benyhe.MiniSports, rating - 2.8, rating_count - 51, installs - 50000, category - Sports Games, developer_email - appsupport@qq.com
+Developer_id - XiaoXiao, App - air.com.benyhe.MissionUndeadFree, rating - 4.4, rating_count - 7, installs - 5000, category - Arcade &amp; Action, developer_email - appsupport@qq.com
+Developer_id - XiaoXiao, App - air.com.benyhe.Penalty, rating - 4.6, rating_count - 9, installs - 10000, category - Sports Games, developer_email - appsupport@qq.com
+Developer_id - XiaoXiao, App - air.com.benyhe.PrecisionStrike, rating - 5.0, rating_count - 9, installs - 5000, category - Arcade &amp; Action, developer_email - appsupport@qq.com
+Developer_id - XiaoXiao, App - air.com.benyhe.PrisonBreak, rating - 2.0, rating_count - 5, installs - 1000, category - Brain &amp; Puzzle, developer_email - appsupport@qq.com
+Developer_id - XiaoXiao, App - air.com.benyhe.PrisonBreakFree, rating - 3.4, rating_count - 6779, installs - 5000000, category - Brain &amp; Puzzle, developer_email - appsupport@qq.com
+Developer_id - XiaoXiao, App - air.com.benyhe.RobotVsZombiesFree, rating - 3.7, rating_count - 103, installs - 100000, category - Casual, developer_email - appsupport@qq.com
+Developer_id - XiaoXiao, App - air.com.benyhe.RollerCoaster2Free, rating - 3.7, rating_count - 4327, installs - 5000000, category - Sports Games, developer_email - appsupport@qq.com
+Developer_id - XiaoXiao, App - air.com.benyhe.RollerCoasterFree, rating - 3.2, rating_count - 3542, installs - 5000000, category - Racing, developer_email - appsupport@qq.com
+Developer_id - XiaoXiao, App - air.com.benyhe.SpartansVsGoBlinsFree, rating - 4.3, rating_count - 3, installs - 5000, category - Arcade &amp; Action, developer_email - appsupport@qq.com
+Developer_id - XiaoXiao, App - air.com.benyhe.SquirrelVsZombiesFree, rating - 3.8, rating_count - 5, installs - 5000, category - Brain &amp; Puzzle, developer_email - appsupport@qq.com
+Developer_id - XiaoXiao, App - air.com.benyhe.ThreePandasFree, rating - 3.9, rating_count - 8, installs - 5000, category - Arcade &amp; Action, developer_email - appsupport@qq.com
+Developer_id - XiaoXiao, App - air.com.benyhe.TurkeyBonk, rating - 3.7, rating_count - 3, installs - 5000, category - Sports Games, developer_email - appsupport@qq.com
+Developer_id - BigFishGames, App - air.com.bigfishgames.fairwaysolitaire2.google, rating - 4.7, rating_count - 4248, installs - 500000, category - Cards &amp; Casino, developer_email - android.email@bigfishgames.com
+Developer_id - DragonGameStudio, App - air.com.coalaa.itexas.en, rating - 4.3, rating_count - 95, installs - 50000, category - Cards &amp; Casino, developer_email - hnwamik6771@hotmail.com
+Developer_id - DragonGameStudio, App - air.com.coalaa.itexasbr, rating - 4.0, rating_count - 41, installs - 10000, category - Cards &amp; Casino, developer_email - hnwamik6771@hotmail.com
+Developer_id - CrowdstarInc, App - air.com.crowdstar.photofeed, rating - 3.9, rating_count - 16, installs - 10000, category - Photography, developer_email - crowdstar.mobile@gmail.com
+Developer_id - CrowdstarInc, App - air.com.crowdstar.phuzzle, rating - 4.0, rating_count - 2, installs - 50, category - Brain &amp; Puzzle, developer_email - PhuzzleHelp@crowdstar.com
+Developer_id - CrowdstarInc, App - air.com.crowdstar.phuzzlefree, rating - 4.0, rating_count - 536, installs - 500000, category - Brain &amp; Puzzle, developer_email - PhuzzleHelp@crowdstar.com
+Developer_id - Disney, App - air.com.disney.GnomeVillage.GooglePlay, rating - 3.6, rating_count - 2660, installs - 1000000, category - Casual, developer_email - playdommobilesupport@playdom.com
+Developer_id - MobiPlay, App - air.com.dozengames.BuzzerGame, rating - 3.8, rating_count - 57, installs - 50000, category - Arcade &amp; Action, developer_email - dozensgames@gmail.com
+Developer_id - MobiPlay, App - air.com.dozengames.CircusEscape, rating - 4.0, rating_count - 176, installs - 100000, category - Brain &amp; Puzzle, developer_email - contact@dozengames.com
+Developer_id - MobiPlay, App - air.com.dozengames.FarmEscape, rating - 4.0, rating_count - 206, installs - 100000, category - Brain &amp; Puzzle, developer_email - dozensgames@gmail.com
+Developer_id - MobiPlay, App - air.com.dozengames.FloorsEscape, rating - 4.3, rating_count - 9079, installs - 5000000, category - Brain &amp; Puzzle, developer_email - contact@dozengames.com
+Developer_id - MobiPlay, App - air.com.dozengames.UnderwaterHiddenObject, rating - 3.7, rating_count - 48, installs - 50000, category - Casual, developer_email - dozensgames@gmail.com
+Developer_id - ESPNInc, App - air.com.espn.xgamestablet, rating - 2.2, rating_count - 9, installs - 5000, category - Sports, developer_email - espnmobilefeedback@espncustomercare.com
+Developer_id - flaregames, App - air.com.flaregames.wordon, rating - 4.3, rating_count - 11323, installs - 1000000, category - Brain &amp; Puzzle, developer_email - support@flaregames.com
+Developer_id - CrescentMoonGames, App - air.com.forestmoongames.relicrush, rating - 3.9, rating_count - 21, installs - 1000, category - Arcade &amp; Action, developer_email - josh@crescentmoongames.com
+Developer_id - GamesForGirls, App - air.com.games4girls.TalkingCat, rating - 4.1, rating_count - 376, installs - 500000, category - Casual, developer_email - info.gamesforgirls@gmail.com
+Developer_id - GamesForGirls, App - air.com.games4girls.TalkingDog, rating - 3.6, rating_count - 46, installs - 50000, category - Arcade &amp; Action, developer_email - info.gamesforgirls@gmail.com
+Developer_id - GamesForGirls, App - air.com.games4girls.TalkingDollDressUp, rating - 3.7, rating_count - 67, installs - 50000, category - Casual, developer_email - info.gamesforgirls@gmail.com
+Developer_id - GamesForGirls, App - air.com.games4girls.TalkingDragon, rating - 4.3, rating_count - 6, installs - 5000, category - Arcade &amp; Action, developer_email - info.gamesforgirls@gmail.com
+Developer_id - GamesForKids, App - air.com.games4kids.HowToDrawAnimals, rating - 3.9, rating_count - 11, installs - 10000, category - Education, developer_email - info.gamesforkids@gmail.com
+Developer_id - GEICOInsurance, App - air.com.geico.maxwell, rating - 4.4, rating_count - 29, installs - 50000, category - Entertainment, developer_email - mobileapphelp@geico.com
+Developer_id - HewlettPackardDevelopmentCompany,L.P., App - air.com.hp.itsm.src, rating - 0.0, rating_count - 0, installs - 100, category - Business, developer_email - tin-kun.li@hp.com
+Developer_id - IGG.COM, App - air.com.igg.galaxyAPhone, rating - 3.7, rating_count - 327, installs - 50000, category - Arcade &amp; Action, developer_email - Help.go2.android@igg.com
+Developer_id - IGG.COM, App - air.com.igg.galaxyHD, rating - 4.1, rating_count - 300, installs - 100000, category - Arcade &amp; Action, developer_email - Help.go2.android@igg.com
+Developer_id - IGG.COM, App - air.com.igg.galaxyProHD, rating - 3.8, rating_count - 199, installs - 50000, category - Arcade &amp; Action, developer_email - Help.go2.android@igg.com
+Developer_id - kth, App - air.com.kth.WhyKidsAUE2F.market, rating - 4.3, rating_count - 6, installs - 5000, category - Education, developer_email - kids.kth@kt.com
+Developer_id - kth, App - air.com.kth.WhyKidsAUE2P.market, rating - 5.0, rating_count - 1, installs - 100, category - Education, developer_email - kids.kth@kt.com
+Developer_id - kth, App - air.com.kth.WhyKidsAUE3F.market, rating - 5.0, rating_count - 1, installs - 1000, category - Education, developer_email - kids.kth@kt.com
+Developer_id - kth, App - air.com.kth.WhyKidsAUE3P.market, rating - 0.0, rating_count - 0, installs - 50, category - Education, developer_email - kids.kth@kt.com
+Developer_id - kth, App - air.com.kth.WhyKidsAUK2F.market, rating - 4.6, rating_count - 27, installs - 50000, category - Education, developer_email - kids.kth@kt.com
+Developer_id - kth, App - air.com.kth.WhyKidsAUK2P.market, rating - 4.7, rating_count - 6, installs - 1000, category - Education, developer_email - kids.kth@kt.com
+Developer_id - kth, App - air.com.kth.WhyKidsAUK3F.market, rating - 4.5, rating_count - 11, installs - 10000, category - Education, developer_email - kids.kth@kt.com
+Developer_id - kth, App - air.com.kth.WhyKidsAUK3P.market, rating - 5.0, rating_count - 1, installs - 500, category - Education, developer_email - kids.kth@kt.com
+Developer_id - kth, App - air.com.kth.whykids.AUK4F.market, rating - 5.0, rating_count - 1, installs - 500, category - Education, developer_email - kids.kth@kt.com
+Developer_id - TheLEGOGroup, App - air.com.lego.city.firehosefrenzy, rating - 4.4, rating_count - 1384, installs - 5000000, category - Arcade &amp; Action, developer_email - android@lego.com
+Developer_id - TheLEGOGroup, App - air.com.lego.city.rapidrescue, rating - 4.3, rating_count - 1158, installs - 1000000, category - Casual, developer_email - android@lego.com
+Developer_id - TheLEGOGroup, App - air.com.lego.city.spotlightrobbery, rating - 4.4, rating_count - 1678, installs - 1000000, category - Arcade &amp; Action, developer_email - android@lego.com
+Developer_id - TheLEGOGroup, App - air.com.lego.city.teamup, rating - 4.4, rating_count - 423, installs - 500000, category - Arcade &amp; Action, developer_email - android@lego.com
+Developer_id - LGCNSCo.,Ltd, App - air.com.lgcns.Sumarine, rating - 3.5, rating_count - 2, installs - 500, category - Brain &amp; Puzzle, developer_email - hotant@lgcns.com
+Developer_id - NBCUniversal,Inc., App - air.com.nbcuni.com.nbcsports.liveextra, rating - 2.1, rating_count - 10173, installs - 5000000, category - Sports, developer_email - appsupport@nbcsports.com
+Developer_id - NextDifferenceGames, App - air.com.nextdifferencegames.AdventuresFindobjects, rating - 4.0, rating_count - 112, installs - 500000, category - Brain &amp; Puzzle, developer_email - nextdifferencegames@gmail.com
+Developer_id - NextDifferenceGames, App - air.com.nextdifferencegames.AtlantisHiddenobjects, rating - 4.0, rating_count - 91, installs - 100000, category - Brain &amp; Puzzle, developer_email - nextdifferencegames@gmail.com
+Developer_id - NextDifferenceGames, App - air.com.nextdifferencegames.ChamberofSecrets.FindObjects, rating - 4.0, rating_count - 230, installs - 500000, category - Brain &amp; Puzzle, developer_email - nextdifferencegames@gmail.com
+Developer_id - NextDifferenceGames, App - air.com.nextdifferencegames.ChristmasSpotDifference, rating - 4.2, rating_count - 26, installs - 50000, category - Brain &amp; Puzzle, developer_email - nextdifferencegames@gmail.com
+Developer_id - NextDifferenceGames, App - air.com.nextdifferencegames.Findme.Findobjects, rating - 4.0, rating_count - 595, installs - 500000, category - Brain &amp; Puzzle, developer_email - nextdifferencegames@gmail.com
+Developer_id - NextDifferenceGames, App - air.com.nextdifferencegames.HalloweenFindObjects, rating - 3.9, rating_count - 177, installs - 500000, category - Brain &amp; Puzzle, developer_email - nextdifferencegames@gmail.com
+Developer_id - NextDifferenceGames, App - air.com.nextdifferencegames.HalloweenHiddenObjects, rating - 4.0, rating_count - 182, installs - 500000, category - Brain &amp; Puzzle, developer_email - nextdifferencegames@gmail.com
+Developer_id - NextDifferenceGames, App - air.com.nextdifferencegames.Lost.Hiddenobjects, rating - 3.7, rating_count - 1085, installs - 1000000, category - Brain &amp; Puzzle, developer_email - nextdifferencegames@gmail.com
+Developer_id - NextDifferenceGames, App - air.com.nextdifferencegames.Mess.Hiddenobjects, rating - 4.0, rating_count - 133, installs - 500000, category - Brain &amp; Puzzle, developer_email - nextdifferencegames@gmail.com
+Developer_id - NextDifferenceGames, App - air.com.nextdifferencegames.MetroPolonaise, rating - 3.8, rating_count - 204, installs - 100000, category - Arcade &amp; Action, developer_email - nextdifferencegames@gmail.com
+Developer_id - NextDifferenceGames, App - air.com.nextdifferencegames.MysteriousWorld, rating - 4.1, rating_count - 15, installs - 50000, category - Brain &amp; Puzzle, developer_email - nextdifferencegames@gmail.com
+Developer_id - NextDifferenceGames, App - air.com.nextdifferencegames.MysteryHiddenStory, rating - 3.9, rating_count - 427, installs - 500000, category - Brain &amp; Puzzle, developer_email - nextdifferencegames@gmail.com
+Developer_id - NextDifferenceGames, App - air.com.nextdifferencegames.MysticTownHiddenobjects, rating - 4.0, rating_count - 165, installs - 500000, category - Brain &amp; Puzzle, developer_email - nextdifferencegames@gmail.com
+Developer_id - NextDifferenceGames, App - air.com.nextdifferencegames.Newdesign.Findobjects, rating - 4.1, rating_count - 138, installs - 100000, category - Brain &amp; Puzzle, developer_email - nextdifferencegames@gmail.com
+Developer_id - NextDifferenceGames, App - air.com.nextdifferencegames.OblivionHiddenobjects, rating - 3.8, rating_count - 78, installs - 100000, category - Brain &amp; Puzzle, developer_email - nextdifferencegames@gmail.com
+Developer_id - NextDifferenceGames, App - air.com.nextdifferencegames.WeddingDressUp, rating - 3.6, rating_count - 22, installs - 50000, category - Casual, developer_email - nextdifferencegames@gmail.com
+Developer_id - NextDifferenceGames, App - air.com.nextdifferencegames.kidColoring, rating - 5.0, rating_count - 5, installs - 5000, category - Casual, developer_email - nextdifferencegames@gmail.com
+Developer_id - NextDifferenceGames, App - air.com.nextdifferencegames.mysteryHiddenObjects, rating - 3.9, rating_count - 2002, installs - 5000000, category - Brain &amp; Puzzle, developer_email - nextdifferencegames@gmail.com
+Developer_id - NextDifferenceGames, App - air.com.nextdifferencegames.warOfThrones, rating - 4.1, rating_count - 95, installs - 50000, category - Arcade &amp; Action, developer_email - nextdifferencegames@gmail.com
+Developer_id - NAVERCorp., App - air.com.nhncorp.jrapp, rating - 4.3, rating_count - 1281, installs - 1000000, category - Education, developer_email - naver_mocs2@naver.com
+Developer_id - NAVERCorp., App - air.com.nhncorp.jrtabletapp, rating - 4.0, rating_count - 9, installs - 50000, category - Education, developer_email - naver_mocs2@naver.com
+Developer_id - OranginalPlan, App - air.com.oranginalplan.alphazet, rating - 5.0, rating_count - 1, installs - 50, category - Education, developer_email - support@oranginalplan.com
+Developer_id - OranginalPlan, App - air.com.oranginalplan.alphazetfree, rating - 3.6, rating_count - 7, installs - 5000, category - Education, developer_email - support@oranginalplan.com
+Developer_id - OranginalPlan, App - air.com.oranginalplan.weaphones, rating - 4.7, rating_count - 6320, installs - 500000, category - Arcade &amp; Action, developer_email - support@oranginalplan.com
+Developer_id - OranginalPlan, App - air.com.oranginalplan.weaphonesfree, rating - 4.5, rating_count - 36457, installs - 10000000, category - Arcade &amp; Action, developer_email - support@oranginalplan.com
+Developer_id - OranginalPlan, App - air.com.oranginalplan.weaphonesww2, rating - 4.8, rating_count - 1172, installs - 50000, category - Arcade &amp; Action, developer_email - oranginalplan@gmail.com
+Developer_id - ESPNInc, App - air.com.seedlabs.xgames, rating - 4.4, rating_count - 106, installs - 50000, category - Sports, developer_email - espnmobilefeedback@espncustomercare.com
+Developer_id - SGN, App - air.com.sgn.bingo.google, rating - 4.0, rating_count - 6989, installs - 1000000, category - Cards &amp; Casino, developer_email - support@sgn.com
+Developer_id - SGN, App - air.com.sgn.pand, rating - 4.3, rating_count - 9490, installs - 5000000, category - Brain &amp; Puzzle, developer_email - support@sgn.com
+Developer_id - SGN, App - air.com.sgn.scratchergame, rating - 3.6, rating_count - 123, installs - 50000, category - Cards &amp; Casino, developer_email - info@sgn.com
+Developer_id - WinCity, App - air.com.slots.boss, rating - 4.8, rating_count - 25, installs - 5000, category - Cards &amp; Casino, developer_email - admin@wincityclub.com
+Developer_id - WinCity, App - air.com.slots.boss.prime, rating - 0.0, rating_count - 0, installs - 5, category - Cards &amp; Casino, developer_email - admin@wincityclub.com
+Developer_id - WinCity, App - air.com.slots.casino.wincity, rating - 4.4, rating_count - 2416, installs - 500000, category - Cards &amp; Casino, developer_email - admin@wincityclub.com
+Developer_id - WinCity, App - air.com.slots.casino.wincity.prime, rating - 3.8, rating_count - 20, installs - 500, category - Cards &amp; Casino, developer_email - admin@wincityclub.com
+Developer_id - StickSportsLtd, App - air.com.sticksports.sticktennis, rating - 4.5, rating_count - 30988, installs - 5000000, category - Sports Games, developer_email - appsupport@sticksports.com
+Developer_id - StickSportsLtd, App - air.com.sticksports.supersixes, rating - 4.6, rating_count - 9365, installs - 1000000, category - Sports Games, developer_email - appsupport@sticksports.com
+Developer_id - TencentTechnology(Shenzhen)CompanyLtd., App - air.com.tencent.qqfarm, rating - 4.0, rating_count - 341, installs - 100000, category - Casual, developer_email - amymeng@tencent.com
+Developer_id - NFLEnterprisesLLC, App - air.com.visiware.nfl.xtra, rating - 3.3, rating_count - 244, installs - 100000, category - Sports Games, developer_email - customer.service@nflhelp.com
+Developer_id - Zynga, App - air.com.zynga.sava.rubbertacos, rating - 3.8, rating_count - 96, installs - 50000, category - Arcade &amp; Action, developer_email - support@zynga.com
+Developer_id - YOURNET.Inc, App - air.crane, rating - 2.2, rating_count - 9, installs - 10000, category - Brain &amp; Puzzle, developer_email - info@yournetapp.jp
+Developer_id - YOURNET.Inc, App - air.diving, rating - 3.0, rating_count - 2, installs - 5000, category - Arcade &amp; Action, developer_email - info@yournetapp.jp
+Developer_id - VascoGames, App - air.escape3dbus, rating - 3.4, rating_count - 302, installs - 100000, category - Brain &amp; Puzzle, developer_email - info@vascogames.com
+Developer_id - YOURNET.Inc, App - air.flyinghumanoid, rating - 5.0, rating_count - 2, installs - 500, category - Arcade &amp; Action, developer_email - info@yournetapp.jp
+Developer_id - dim_ok, App - air.insectInvasion, rating - 4.3, rating_count - 66, installs - 50000, category - Arcade &amp; Action, developer_email - dim_ok_23@mail.ru
+Developer_id - VascoGames, App - air.islandescape, rating - 2.8, rating_count - 332, installs - 100000, category - Brain &amp; Puzzle, developer_email - info@vascogames.com
+Developer_id - AteamInc., App - air.jp.co.a_tm.panda.v1.game, rating - 3.8, rating_count - 282, installs - 500000, category - Brain &amp; Puzzle, developer_email - info+android+panda@support.a-tm.co.jp
+Developer_id - AteamInc., App - air.jp.co.a_tm.panda.v1.hint, rating - 2.0, rating_count - 3, installs - 1000, category - Brain &amp; Puzzle, developer_email - info+android+panda@support.a-tm.co.jp
+Developer_id - XINGINC., App - air.jp.co.xing.chizukokki, rating - 4.2, rating_count - 18, installs - 5000, category - Education, developer_email - utaehon-android@joysound.com
+Developer_id - XINGINC., App - air.jp.co.xing.chizukokkifree, rating - 3.7, rating_count - 265, installs - 500000, category - Education, developer_email - utaehon-android@joysound.com
+Developer_id - YOURNET.Inc, App - air.kerokko, rating - 0.0, rating_count - 0, installs - 5000, category - Arcade &amp; Action, developer_email - info@yournetapp.jp
+Developer_id - AMC, App - air.killing, rating - 4.7, rating_count - 14, installs - 5000, category - Casual, developer_email - amcdroid@gmail.com
+Developer_id - DaumCommunications, App - air.net.daum.kids.kidsbasic, rating - 4.6, rating_count - 1175, installs - 500000, category - Education, developer_email - musicspecial@daum.net
+Developer_id - OranginalPlan, App - air.oranginalplan.popbubble, rating - 0.0, rating_count - 0, installs - 500, category - Casual, developer_email - support@oranginalplan.com
+Developer_id - OranginalPlan, App - air.oranginalplan.popbubblelite, rating - 3.8, rating_count - 171, installs - 100000, category - Casual, developer_email - support@oranginalplan.com
+Developer_id - dim_ok, App - air.svalka, rating - 4.2, rating_count - 633, installs - 100000, category - Brain &amp; Puzzle, developer_email - dim_ok_23@mail.ru
+Developer_id - VascoGames, App - air.vg.colonialwars, rating - 4.4, rating_count - 978, installs - 100000, category - Arcade &amp; Action, developer_email - info@vascogames.com
+Developer_id - VascoGames, App - air.vg.pyramid, rating - 3.9, rating_count - 170, installs - 500000, category - Cards &amp; Casino, developer_email - info@vascogames.com
+Developer_id - CellfishStudios, App - airborne.cfhalloween, rating - 4.3, rating_count - 9999, installs - 1000000, category - Personalization, developer_email - support@cellfishmedia.com
+Developer_id - CellfishStudios, App - airborne.nbawp, rating - 4.3, rating_count - 5508, installs - 5000000, category - Personalization, developer_email - support@cellfishmedia.com
+Developer_id - CellfishStudios, App - airborne.ncaabballwp, rating - 4.2, rating_count - 401, installs - 500000, category - Sports, developer_email - support@cellfishmedia.com
+Developer_id - CellfishStudios, App - airborne.nflwp2, rating - 4.0, rating_count - 5174, installs - 1000000, category - Personalization, developer_email - support@cellfishmedia.com
+Developer_id - CellfishStudios, App - airborne.nhlwp, rating - 4.0, rating_count - 2505, installs - 500000, category - Sports, developer_email - support@cellfishmedia.com
+Developer_id - Notes, App - alpha.earthalbum.photo.travel.wallpaper, rating - 4.3, rating_count - 416, installs - 500000, category - Travel &amp; Local, developer_email - market@socialnmobile.com
+Developer_id - ALXGCHR, App - alxg.com.ultrasound, rating - 3.7, rating_count - 579, installs - 500000, category - Tools, developer_email - alxg.chr@gmail.com
+Developer_id - ALXGCHR, App - alxg.fartprank, rating - 3.1, rating_count - 15, installs - 10000, category - Entertainment, developer_email - alxg.chr@gmail.com
+Developer_id - ALXGCHR, App - alxg.soundsofnature, rating - 4.5, rating_count - 39, installs - 10000, category - Tools, developer_email - alxg.chr@gmail.com
+Developer_id - ALXGCHR, App - alxg.stadiumhorn, rating - 3.8, rating_count - 105, installs - 100000, category - Tools, developer_email - alxg.chr@gmail.com
+Developer_id - ALXGCHR, App - alxg.tie, rating - 4.7, rating_count - 1349, installs - 500000, category - Tools, developer_email - alxg.chr@gmail.com
+Developer_id - AteamInc., App - am.ate.eggrockgree, rating - 5.0, rating_count - 5, installs - 10000, category - Arcade &amp; Action, developer_email - info+android+eggrock@support.a-tm.co.jp
+Developer_id - OvidiuPop, App - andro.waterfall.livewallpaper, rating - 5.0, rating_count - 9, installs - 5000, category - Personalization, developer_email - ovidiu.pop.92@gmail.com
