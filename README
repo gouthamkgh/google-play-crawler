@@ -1,0 +1,14 @@
+The basic aim is to get app data from scraping/crawling play store.
+
+We have two files here:
+   1. get_all_app_ids.rb
+   2. app_details_from_app_id.rb
+which are our main scripts
+
+get_all_app_ids.rb -
+	From a file that contains the developer IDs, we are scraping the play store and fetching all the apps by that developer, and the total number of apps for that developer.
+	We are just storing the (dev-id, app-id) pairs in a file, and (dev-id, #apps by that dev) in another file.
+
+
+app_details_from_app_id.rb -
+	Now we have app ids and dev ids. We are scraping/crawling the play store for app details given an app id.
